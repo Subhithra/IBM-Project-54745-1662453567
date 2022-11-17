@@ -2,7 +2,7 @@
 # Real-Time Communication System Powered by AI for Specially Abled
  Team Leader : Subhithra
 
-Team member 1 : Deepakanna
+Team member 1 : DeepaKKanna
 
 Team member 2 : Sabitha
 
